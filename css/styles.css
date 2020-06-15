@@ -1,0 +1,33 @@
+body {
+  background-color: #EAF6F6;
+}
+hr{
+  background-color: white;
+  border-style: none;
+  height : 2px;
+}
+
+img{
+  height: 200px;
+}
+h1{
+  color: darkgreen;
+}
+h3{
+  color: darkgreen;
+}
+h6{
+  color: darkgreen;
+}
+th{
+  color: darkgreen;
+}
+
+
+
+.circular{
+  border-radius: 30%;
+}
+.container-fluid{
+  padding: 1% 3%;
+}
